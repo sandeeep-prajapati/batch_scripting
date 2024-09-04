@@ -1,0 +1,18 @@
+ Volume in drive G has no label.
+ Volume Serial Number is A64B-4D02
+
+ Directory of G:\batch_scripting
+
+09/04/2024  02:42 PM    <DIR>          .
+09/04/2024  02:42 PM    <DIR>          ..
+09/04/2024  02:22 PM                21 001_ver.bat
+09/04/2024  02:26 PM                83 002_accoc.bat
+09/04/2024  02:28 PM                39 003_cd.bat
+09/04/2024  02:30 PM                76 004_cls.bat
+09/04/2024  02:33 PM                85 005_copy.bat
+09/04/2024  02:35 PM                42 006_del.bat
+09/04/2024  02:42 PM                97 007_dir.bat
+09/04/2024  02:42 PM                 0 lists.txt
+09/04/2024  02:35 PM    <DIR>          test
+               8 File(s)            443 bytes
+               3 Dir(s)  352,229,941,248 bytes free
